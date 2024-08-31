@@ -19,7 +19,7 @@ public class atividade_11_Sistema_de_Cálculo_de_Salário_com_Bonificação_e_Im
             double salbrutocombonus = salarioBruto + bonus;
 
         } else {
-            System.out.println("você ainda não tem bonificação ");
+            System.out.println("você ainda não tem bonificação");
         }
 
         if (salarioBruto >= 5000.00) {

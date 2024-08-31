@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class calculadorasimples {
+public class atividade_6_verificação_de_Aprovação_Escolar {
     public static void main(String[] args) {
         Scanner cl = new Scanner(System.in);
 

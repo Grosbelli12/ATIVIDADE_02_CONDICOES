@@ -11,7 +11,7 @@ public class atividade_8_classificaçãodeTemperatura {
         } else if (temperatura < 30 && temperatura >= 15) {
             System.out.println("Agradável😲");
         } else {
-            System.out.println("Frio🥶");
+            System.out.println("Frio🥶 ");
         }
     }
 }

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61572971-fef4-46a9-9bfb-7e7d59c1ea5e" name="Changes" comment="atividade completa">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="61572971-fef4-46a9-9bfb-7e7d59c1ea5e" name="Changes" comment="atividade completa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,12 +26,12 @@
     &quot;assignee&quot;: &quot;Grosbelli12&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Grosbelli12/atividade02-02.git",
-    "accountId": "41be0a80-4c99-4841-bdd6-f29c6afcf789"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Grosbelli12/atividade02-02.git&quot;,
+    &quot;accountId&quot;: &quot;41be0a80-4c99-4841-bdd6-f29c6afcf789&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -51,7 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/atividade02-02-master",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/atividade02-02-master/out",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,6 +60,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\atividade02-02-master\out" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Usuario\IdeaProjects\atividade02-02\src" />
     </key>
@@ -85,6 +86,7 @@
       <workItem from="1724926253801" duration="1019000" />
       <workItem from="1724927393870" duration="4235000" />
       <workItem from="1725142990933" duration="1755000" />
+      <workItem from="1725144929892" duration="362000" />
     </task>
     <task id="LOCAL-00001" summary="atividae 7 com switch">
       <option name="closed" value="true" />
@@ -166,11 +168,38 @@
       <option name="project" value="LOCAL" />
       <updated>1725144576037</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="atividade completa">
+      <option name="closed" value="true" />
+      <created>1725145088994</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725145088994</updated>
+    </task>
+    <task id="LOCAL-00012" summary="atividade completa">
+      <option name="closed" value="true" />
+      <created>1725145244987</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725145244987</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="atividae 7 com switch" />

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class atividade_7_calculadorasimples {
+public class calculadorasimples {
     public static void main(String[] args) {
         Scanner cl = new Scanner(System.in);
 
@@ -10,7 +10,7 @@ public class atividade_7_calculadorasimples {
         System.out.println("Digite o segundo numero: ");
         int n2 = cl.nextInt();
 
-        System.out.println(" Digite 1 se deseja somar, 2 para subtrair, 3 se deseja multiplicar e 4 se deseja dividir 1: ");
+        System.out.println("Digite 1 se deseja somar, 2 para subtrair, 3 se deseja multiplicar e 4 se deseja dividir 1: ");
         int op = cl.nextInt();
 
         switch (op) {

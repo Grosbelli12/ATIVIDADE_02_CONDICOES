@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e04aef04-e4e4-458b-8628-0bf9e91239c4" name="Changes" comment="Merge branch 'master' of https://github.com/Grosbelli12/atividade02-02&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+    <list default="true" id="e04aef04-e4e4-458b-8628-0bf9e91239c4" name="Changes" comment="nome change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculadorasimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculadorasimples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atividade_6_verificação_de_Aprovação_Escolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/atividade_6_verificação_de_Aprovação_Escolar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Grosbelli12"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Grosbelli12/atividade02-02.git",
+    "accountId": "41be0a80-4c99-4841-bdd6-f29c6afcf789"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -64,13 +77,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="61572971-fef4-46a9-9bfb-7e7d59c1ea5e" name="Changes" comment="" />
+      <changelist id="e04aef04-e4e4-458b-8628-0bf9e91239c4" name="Changes" comment="nome change" />
       <created>1724926252710</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724926252710</updated>
       <workItem from="1724926253801" duration="1019000" />
       <workItem from="1724927393870" duration="4235000" />
+      <workItem from="1725283877810" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/Grosbelli12/atividade02-02&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <option name="closed" value="true" />
@@ -80,15 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725145561885</updated>
     </task>
-    <task id="LOCAL-00002" summary="atividade8 temperatura">
+    <task id="LOCAL-00002" summary="nome change">
       <option name="closed" value="true" />
-      <created>1724931602981</created>
+      <created>1725147094469</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1724931602981</updated>
+      <updated>1725147094469</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +113,7 @@
     <MESSAGE value="atividade8 temperatura" />
     <MESSAGE value="atividade completa" />
     <MESSAGE value="Merge branch 'master' of https://github.com/Grosbelli12/atividade02-02&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/Grosbelli12/atividade02-02&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="nome change" />
+    <option name="LAST_COMMIT_MESSAGE" value="nome change" />
   </component>
 </project>
